@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@yyds-space 
-Eurkon
-/
-weibo-top-api
-Public
-Fork your own copy of Eurkon/weibo-top-api
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-weibo-top-api/api/index.py /
-@Eurkon
-Eurkon refactor: 重构爬取微博热搜
-Latest commit 94333b1 on Nov 10, 2021
- History
- 1 contributor
-71 lines (58 sloc)  1.72 KB
-
 # -*- coding: utf-8 -*-
 # @Author    : Eurkon
 # @Date      : 2021/6/5 10:16
@@ -97,18 +67,3 @@ class handler(BaseHTTPRequestHandler):
 
 if __name__ == '__main__':
     print(get_data())
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-weibo-top-api/index.py at main · Eurkon/weibo-top-api
